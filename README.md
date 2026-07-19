@@ -2,7 +2,12 @@
 <img src="https://raw.githubusercontent.com/0xNexCT/0xNexCT/main/banner.jpg" width="100%" />
 </div>
 
-<br> 
+<div align="center">
+<a href="https://x.com/0xNexCT" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/0xNexCT" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
+</div>
+
 I'm an Analyst & Researcher currently pursuing my degree in Computer Science 🎓. I work across data analysis, research 📊, and JavaScript-based development, and enjoy exploring new tools and technologies to build clean, functional projects end to end 🛠️.
 
 ### 🧐 More About Me:
@@ -25,6 +30,15 @@ I'm an Analyst & Researcher currently pursuing my degree in Computer Science �
 <img width="65" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
 </p>
 
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=0xNexCT&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNexCT&layout=compact&theme=radical&hide_border=true&hide_title=true" />
+</p>
+
+### ☕ Currently vibing like this while I code
+
 <p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
+<img width="260" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
 </p>
