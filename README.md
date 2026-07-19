@@ -2,12 +2,7 @@
 <img src="https://raw.githubusercontent.com/0xNexCT/0xNexCT/main/banner.jpg" width="100%" />
 </div>
 
-<div align="center">
-<a href="https://x.com/0xNexCT" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/0xNexCT" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>
-</div>
-
+<br> 
 I'm an Analyst & Researcher currently pursuing my degree in Computer Science 🎓. I work across data analysis, research 📊, and JavaScript-based development, and enjoy exploring new tools and technologies to build clean, functional projects end to end 🛠️.
 
 ### 🧐 More About Me:
