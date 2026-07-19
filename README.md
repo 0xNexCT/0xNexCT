@@ -35,5 +35,5 @@ I'm an Analyst & Researcher currently pursuing my degree in Computer Science ğŸ
 ### ğŸ“Š GitHub Stats
 
 <p align="left">
-<img width="450" src="PASTE_YOUR_GIF_LINK_HERE" />
+<img width="450" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
 </p>
