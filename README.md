@@ -32,7 +32,7 @@ I'm an Analyst & Researcher currently pursuing a degree in Computer Science. My 
 <img src="https://raw.githubusercontent.com/0xNexCT/github-stats-transparent/output/generated/languages.svg" height="200" />
 </p>
 
-### ☕ Currently vibing like this while I code
+### Currently vibing like this while I code
 
 <p align="center">
 <img width="260" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
