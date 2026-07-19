@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/0xNexCT/0xNexCT/main/banner.jpg" width="100%" />
 </div>
 
+<br> 
 
 I'm an Analyst & Researcher currently pursuing my degree in Computer Science 🎓. I work across data analysis, research 📊, and JavaScript-based development, and enjoy exploring new tools and technologies to build clean, functional projects end to end 🛠️.
 
