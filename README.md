@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/0xNexCT/0xNexCT/main/banner.jpg" width="100%" />
 </div>
 
-<br> 
+<a href="https://x.com/0xNexCT"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> <a href="https://github.com/0xNexCT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 I'm an Analyst & Researcher currently pursuing my degree in Computer Science 🎓. I work across data analysis, research 📊, and JavaScript-based development, and enjoy exploring new tools and technologies to build clean, functional projects end to end 🛠️.
 
@@ -22,6 +22,8 @@ I'm an Analyst & Researcher currently pursuing my degree in Computer Science �
 <img width="65" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 <img width="65" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" />
 <img width="65" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+<img width="65" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
+<img width="65" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
 </p>
 
 <p align="center">
