@@ -1,58 +1,40 @@
-<div align="center">
+## Hey 👋, I'm
 
 <pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+_|      _|  _|_|_|_|  _|      _|  
+_|_|    _|  _|          _|  _|    
+_|  _|  _|  _|_|_|        _|      
+_|    _|_|  _|          _|  _|    
+_|      _|  _|_|_|_|  _|      _|  
 </pre>
 
-<h3>Analyst &amp; Research &nbsp;|&nbsp; Computer Science Student</h3>
+<a href="https://x.com/0xNexCT"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> <a href="https://github.com/0xNexCT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-<a href="https://x.com/0xNexCT"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://github.com/0xNexCT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+I'm an Analyst & Researcher currently pursuing my degree in Computer Science 🎓. I work across data analysis, research 📊, and JavaScript-based development, and enjoy exploring new tools and technologies to build clean, functional projects end to end 🛠️.
 
-</div>
+### 🧐 More About Me:
 
-<br>
+- 🔭 I'm currently working on projects under my [GitHub](https://github.com/0xNexCT?tab=repositories)
+- 🌱 I'm currently sharpening my skills in JavaScript and modern web development
+- 📚 3rd year Computer Science student, always learning something new
+- 💬 Ask me about analysis, research, or JS-based projects — happy to help
+- 📫 Reach out to me on [X](https://x.com/0xNexCT)
+- ⚡ Fun fact: I like giving my projects their own distinct identity
 
-## About
+### 🔨 Languages and Tools:
 
-I'm NEX — an analyst and researcher currently pursuing a degree in Computer Science. I work across data analysis, research, and JavaScript-based development, with a focus on building clean, functional projects end to end.
+<p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<br>
+### 📊 GitHub Stats
 
-## Tech Stack
-
-<div align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=0xNexCT&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNexCT&layout=compact&theme=default&hide_border=true&hide_title=true" />
-</div>
-
-<br>
-
-## Connect
-
-<div align="center">
-<a href="https://x.com/0xNexCT"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://github.com/0xNexCT"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xNexCT&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNexCT&layout=compact&theme=default&hide_border=true" />
+</p>
