@@ -28,8 +28,8 @@ I'm an Analyst & Researcher currently pursuing a degree in Computer Science. My 
 ### GitHub Stats
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/0xNexCT/github-stats-transparent/output/generated/overview.svg" height="150" />
-<img src="https://raw.githubusercontent.com/0xNexCT/github-stats-transparent/output/generated/languages.svg" height="150" />
+<img src="https://raw.githubusercontent.com/0xNexCT/github-stats-transparent/output/generated/overview.svg" height="200" />
+<img src="https://raw.githubusercontent.com/0xNexCT/github-stats-transparent/output/generated/languages.svg" height="200" />
 </p>
 
 <p align="center">
