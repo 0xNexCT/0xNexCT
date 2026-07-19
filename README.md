@@ -35,6 +35,5 @@ I'm an Analyst & Researcher currently pursuing my degree in Computer Science ğŸ
 ### ğŸ“Š GitHub Stats
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xNexCT&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNexCT&layout=compact&theme=default&hide_border=true" />
+<img width="450" src="PASTE_YOUR_GIF_LINK_HERE" />
 </p>
