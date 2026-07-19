@@ -1,12 +1,6 @@
-## Hey 👋, I'm
-
-<pre>
-_|      _|  _|_|_|_|  _|      _|  
-_|_|    _|  _|          _|  _|    
-_|  _|  _|  _|_|_|        _|      
-_|    _|_|  _|          _|  _|    
-_|      _|  _|_|_|_|  _|      _|  
-</pre>
+<div align="center">
+<img src="https://raw.githubusercontent.com/0xNexCT/0xNexCT/main/banner.jpg" width="100%" />
+</div>
 
 <a href="https://x.com/0xNexCT"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a> <a href="https://github.com/0xNexCT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
